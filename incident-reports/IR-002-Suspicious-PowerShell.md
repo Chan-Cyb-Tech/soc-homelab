@@ -14,6 +14,9 @@ On 5 January 2026, Sysmon recorded PowerShell execution using an encoded command
 - Key evidence:
   - Image: `C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe`
   - CommandLine: contains `-NoProfile` and `-EncodedCommand`
+ 
+![Sysmon evidence: PowerShell EncodedCommand](../docs/06-sysmon-powershell-encodedcommand.PNG)
+
 
 ## Triage Actions Taken
 - Filtered Sysmon log to Event ID 1 and searched for `powershell.exe`
@@ -31,3 +34,4 @@ On 5 January 2026, Sysmon recorded PowerShell execution using an encoded command
 
 ## Screenshots
 - docs/06-sysmon-powershell-encodedcommand.png
+
