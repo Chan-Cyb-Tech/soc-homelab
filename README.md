@@ -13,10 +13,10 @@ A beginner SOC lab built in VirtualBox to practice:
 
 ## Evidence (screenshots)
 **Failed logons (Security Event ID 4625):**
-![Failed logons](docs/04-security-4625-failed-logons.png)
+![Failed logons](docs/04-security-4625-failed-logons.PNG)
 
 **Triage proof (Sysmon EID 1 showing Event Viewer opened via mmc.exe / eventvwr.msc):**
-![Sysmon triage proof](docs/05-sysmon-triage-proof.png)
+![Sysmon triage proof](docs/05-sysmon-triage-proof.PNG)
 
 ## Incident reports
 - [IR-001: Failed Logons (4625)](incident-reports/IR-001-Failed-Logons.md)
@@ -28,5 +28,6 @@ A beginner SOC lab built in VirtualBox to practice:
 
 ## Notes
 All data is from a controlled lab environment (no real user/client data).
+
 
 
