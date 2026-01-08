@@ -25,6 +25,8 @@ A beginner SOC lab built in VirtualBox to practice:
 ## Incident reports
 - [IR-001: Failed Logons (4625)](incident-reports/IR-001-Failed-Logons.md)
 - [IR-002: Suspicious PowerShell (Sysmon EID 1)](incident-reports/IR-002-Suspicious-PowerShell.md)
+- [IR-003: New Local User Added to Administrators](incident-reports/IR-003-Local-Admin-Added.md)
+
 
 ## What I learned
 - How to generate and validate authentication-related events in Windows
@@ -33,6 +35,7 @@ A beginner SOC lab built in VirtualBox to practice:
 
 ## Notes
 All data is from a controlled lab environment (no real user/client data).
+
 
 
 
