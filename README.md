@@ -21,13 +21,14 @@ A beginner SOC lab built in VirtualBox to practice:
 **Suspicious PowerShell (Sysmon EID 1 – EncodedCommand):**
 ![Suspicious PowerShell](docs/06-sysmon-powershell-encodedcommand.PNG)
 
-
 ## Incident reports
 - [IR-001: Failed Logons (4625)](incident-reports/IR-001-Failed-Logons.md)
 - [IR-002: Suspicious PowerShell (Sysmon EID 1)](incident-reports/IR-002-Suspicious-PowerShell.md)
 - [IR-003: New Local User Added to Administrators](incident-reports/IR-003-Local-Admin-Added.md)
 
-
+## Playbooks
+- [PB-001: Local Admin Group Change](playbooks/PB-001-Local-Admin-Added.md)
+  
 ## What I learned
 - How to generate and validate authentication-related events in Windows
 - How to confirm investigator actions using Sysmon telemetry
@@ -35,6 +36,7 @@ A beginner SOC lab built in VirtualBox to practice:
 
 ## Notes
 All data is from a controlled lab environment (no real user/client data).
+
 
 
 
