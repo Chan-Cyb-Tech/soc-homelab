@@ -49,10 +49,13 @@ This project demonstrates:
 ## Playbooks
 - [PB-001: Local Admin Group Change](playbooks/PB-001-Local-Admin-Group-Change.md)
   
+
 ## What I learned
-- How to generate and validate authentication-related events in Windows
-- How to confirm investigator actions using Sysmon telemetry
-- How to document triage findings like a SOC Tier 1 analyst
+- **Security Event Analysis:** How to investigate Windows Security Events 4625, 4720, 4732, and 4726 to identify failed authentication attempts and potentially suspicious account activity.
+- **Endpoint Monitoring:** How to use Sysmon Event ID 1 to analyze process creation and investigate suspicious PowerShell EncodedCommand execution.
+- **Incident Triage:** How to examine event details, correlate evidence, and distinguish potentially suspicious activity from expected system behavior.
+- **Incident Documentation:** How to prepare structured Tier 1 incident reports with timelines, supporting evidence, findings, and remediation recommendations.
+- **Security Playbook Development:** How to develop a repeatable investigation workflow with decision points and escalation criteria for local administrator group changes.
 
 ## Notes
 All data is from a controlled lab environment (no real user/client data).
