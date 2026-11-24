@@ -14,6 +14,23 @@ This project demonstrates:
 - Guest: Windows 10 VM (endpoint)
 - Telemetry: Windows Security logs + Sysmon (Sysmon/Operational)
 
+
+## Tools & Skills Demonstrated
+
+**Tools & Technologies**
+- Oracle VirtualBox — Virtual machine environment
+- Windows 10 — Endpoint investigation
+- Windows Event Viewer — Security log analysis
+- Sysmon — Process creation and endpoint telemetry
+
+**Cybersecurity Skills**
+- Security event monitoring and log analysis
+- Suspicious PowerShell activity investigation
+- User account and privileged access monitoring
+- Incident triage and evidence correlation
+- Incident reporting and remediation recommendations
+- Tier 1 SOC playbook development
+
 ## Evidence (screenshots)
 **Failed logons (Security Event ID 4625):**
 ![Failed logons](docs/04-security-4625-failed-logons.PNG)
