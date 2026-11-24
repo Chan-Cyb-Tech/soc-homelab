@@ -33,5 +33,5 @@ On 5 January 2026, Sysmon recorded PowerShell execution using an encoded command
 - Use allowlisting/least privilege controls to reduce abuse of scripting tools.
 
 ## Screenshots
-- docs/06-sysmon-powershell-encodedcommand.png
+- ![IR-002 Powershell EncodedCommand Evidence](../docs/06-sysmon-powershell-encodedcommand.png)
 
