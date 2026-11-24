@@ -27,7 +27,7 @@ A beginner SOC lab built in VirtualBox to practice:
 - [IR-003: New Local User Added to Administrators](incident-reports/IR-003-Local-Admin-Added.md)
 
 ## Playbooks
-- [PB-001: Local Admin Group Change](playbooks/PB-001-Local-Admin-Added.md)
+- [PB-001: Local Admin Group Change](playbooks/PB-001-Local-Admin-Group-Change.md)
   
 ## What I learned
 - How to generate and validate authentication-related events in Windows
