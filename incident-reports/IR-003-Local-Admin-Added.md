@@ -38,7 +38,7 @@ On 8 January 2026, a new local user account was created and added to the local A
 - Regularly audit local Administrators group membership.
 
 ## Screenshots
-- docs/07-security-4720-user-created.PNG
-- docs/08-security-4732-added-to-admins.PNG
-- docs/09-sysmon-net-user-admin.PNG
-- docs/10-security-4726-user-deleted.PNG
+- ![User Account Created](../docs/07-security-4720-user-created.PNG)
+- ![User Added to Administrators](../docs/08-security-4732-added-to-admins.PNG)
+- ![Sysmon Command Execution](../docs/09-sysmon-net-user-admin.PNG)
+- ![User Account Deleted](../docs/10-security-4726-user-deleted.PNG)
