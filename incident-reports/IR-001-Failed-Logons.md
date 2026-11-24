@@ -37,5 +37,5 @@ On 4th January, 2026, multiple failed authentication attempts were observed on t
 - Alert on spikes in 4625 events and correlate with successful logons (4624) and account changes.
 
 ## Screenshots
-- ![Event ID 4625 - Failed Logons](docs/04-security-4625-failed-logons.PNG)
-- ![Sysmon Triage Evidence](docs/05-sysmon-triage-proof.PNG)
+- ![Event ID 4625 - Failed Logons](../docs/04-security-4625-failed-logons.PNG)
+- ![Sysmon Triage Evidence](../docs/05-sysmon-triage-proof.PNG)
