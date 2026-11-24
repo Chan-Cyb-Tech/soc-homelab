@@ -1,11 +1,14 @@
 # SOC Home Lab (VirtualBox) — Windows Telemetry & Tier 1 Triage
 
 ## What this is
-A beginner SOC lab built in VirtualBox to practice:
-- Windows Security Event Log analysis (4625 failed logons)
-- Sysmon endpoint telemetry (process creation)
-- Writing a Tier 1 incident report with evidence and remediation
+A hands-on Security Operations Center (SOC) homelab built using Oracle VirtualBox to develop practical cybersecurity investigation and incident response skills.
 
+This project demonstrates:
+- **Windows Security Event Log Analysis:** Investigating failed logons (Event ID 4625), user account creation (4720), privileged group membership changes (4732), and account deletion (4726).
+- **Sysmon Endpoint Telemetry:** Examining process execution and suspicious PowerShell EncodedCommand activity.
+- **Security Incident Investigations:** Analyzing security events, documenting evidence, and developing remediation recommendations through three Tier 1 incident reports.
+- **SOC Investigation Playbook:** Developing a structured Tier 1 triage playbook for local administrator group changes, including investigation steps, decision points, and escalation procedures.
+  
 ## Lab setup
 - Host: Windows 10
 - Guest: Windows 10 VM (endpoint)
